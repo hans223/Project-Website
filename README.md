@@ -24,3 +24,12 @@ Css
 Javascript
 Jquery
 bootstrap
+
+## Petunjuk Website Menggoda
+1.index.html sebagai mainpage
+2.style2.css sebagai design pada mainpage
+3.index7.js berguna agar website menjadi interaktif
+4.about.html sebagai lembaran portofolio saya
+
+## Petunjuk Penggunaan Website
+Buka index.html di google chrome, etelah itu anda dapat mengoperasikan syntax yang telah saya revisi dari 3 kali percobaan dan dari 3 kali uji coba di 3 laptop dalam waktu 3 minggu.
