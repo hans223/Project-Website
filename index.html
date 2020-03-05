@@ -38,21 +38,6 @@
                 <a class="dropdown-item" href="Bukchon Hanok Village.html">Korea</a>
               </div>
             </li>
-          </ul> 
-          <ul id="Japan Dest">
-            <li><a href="#">Akihabara</a></li>
-            <li><a href="#">Kinkakku-ji</a></li>
-            <li><a href="#">Kiyomizu-dera</a></li>
-          </ul>
-          <ul id="Italy Dest">
-            <li><a href="#">Colosseum</a></li>
-            <li><a href="#">Florence</a></li>
-            <li><a href="#">Ponte Vecchio</a></li>
-          </ul>
-          <ul id="Korea Dest">
-            <li><a href="#">Gyeongbokgung Palace</a></li>
-            <li><a href="#">Bukchon Hanok Village</a></li>
-            <li><a href="#">Haeundae Beach</a></li>
           </ul>
           <form class="form-inline my-2 my-lg-0">
             <div class="input-group">
@@ -200,24 +185,7 @@
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js" integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous"></script>
-    <script src="index7.js"></script>
-    <script>
-      function myFunction() {
-        var input, filter, ul, li, a, i, txtValue;
-        input = document.getElementById("myInput");
-        filter = input.value.toUpperCase();
-        ul = document.getElementById("myUL");
-        li = document.getElementsByTagName("li");
-        for (i = 0; i < li.length; i++) {
-            a = li[i].getElementsByTagName("a") [0];
-            txtValue = a.textContent || a.innerText;   
-            if (txtValue.toUpperCase().indexOf(filter) > -1) {
-               li[i].style.display = "";
-            } else {
-              li[i].style.display = "none";
-            }
-         }
-      }
+    <script src="index7.js">
     </script>
   </body>
 </html>
