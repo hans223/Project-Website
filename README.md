@@ -1,7 +1,7 @@
 # Project-Website
 Project Travel website Hacktiv8
 
-tujuan saya membuat file README ini adalah untuk share progress saya selama proses belajar dalam pembuatan travel website dalam course Hacktiv8.dalam pembuatan website ini saya lebih sering melihat google sebagai tempat untuk saya mencari bahan agar saya bisa membuat website 
+tujuan saya membuat file README ini adalah untuk share progress saya selama proses belajar dalam pembuatan travel website dalam course Hacktiv8.dalam pembuatan website ini saya lebih sering melihat google sebagai tempat untuk saya mencari bahan agar saya bisa membuat website. di dalam website ini juga terdapat berbagai destinasi yang bervariasi dari tiga negara yaitu Jepang, Korea, dan Italy. 
 
 ##Hasil Dari website yang sudah saya buat
 web page yang responsive(modalbox,navbar,dropdown,total price,card)
